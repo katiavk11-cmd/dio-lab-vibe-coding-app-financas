@@ -38,14 +38,15 @@ Muitos usuários abandonam o controle financeiro por acharem os aplicativos atua
 - Validação inicial: testes com usuários reais de diferentes perfis (iniciante, pessoa com deficiência, usuário avançado).
 - Tom educativo: linguagem acessível em português.
 - Aplicação de acessibilidade: inclusão de recursos universais desde o protótipo.
+- 
 
-  ### Incluindo Despesas
+  ### Incluindo Despesas ###
 
 ![Incluindo despesas](assets/Tela_Inicial.png)
 
 
 
-### Detalhamanto das Despesas/Receitas
+### Detalhamanto das Despesas/Receitas ###
 
 ![Incluindo despesas](assets/Despesas.png)
 
@@ -54,7 +55,7 @@ Muitos usuários abandonam o controle financeiro por acharem os aplicativos atua
 
 
 
-### Relatórios
+### Relatórios ###
 
 ![Incluindo despesas](assets/Relatórios_1.png)
 
