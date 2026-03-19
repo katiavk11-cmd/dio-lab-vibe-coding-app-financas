@@ -39,7 +39,28 @@ Muitos usuários abandonam o controle financeiro por acharem os aplicativos atua
 - Tom educativo: linguagem acessível em português.
 - Aplicação de acessibilidade: inclusão de recursos universais desde o protótipo.
 
+  ### Incluindo Despesas
+
 ![Incluindo despesas](assets/Tela_Inicial.png)
+
+
+
+### Detalhamanto das Despesas/Receitas
+
+![Incluindo despesas](assets/Despesas.png)
+
+
+![Incluindo despesas](assets/Detalhamento_de_despesas.png)
+
+
+
+### Relatórios
+
+![Incluindo despesas](assets/Relatórios_1.png)
+
+![Incluindo despesas](assets/Relatórios_2.png)
+
+
 
 
 ---
