@@ -42,13 +42,13 @@ Muitos usuários abandonam o controle financeiro por acharem os aplicativos atua
 
 ---
 
-## 🧠 Reflexão
+## Reflexão
 
 ### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+O refinamento do PRD no Copilot facilitou a interação no FIGMA. 
 
 ### O que não funcionou como o esperado?  
-Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+Usar o Lovable não foi viável, não conseguiu desenvolver o app. Pedindo sugestões de interface, o Copilot sugeriu o FIGMA, que funcionou muito bem, foi bem amigável. 
 
 ### O que aprendi sobre conversar com IAs?  
-Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+A interação com a IA funciona de forma cumulativa, é melhor partir de ideias simples e ir implementando melhorias e novas ideias, assim a conversa fica mais fluída e é mais difícil da IA alucinar.
